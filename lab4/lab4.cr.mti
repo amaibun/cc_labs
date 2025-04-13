@@ -1,0 +1,8 @@
+E:/modelsim/modelsim_ase/examples/lab4/truth_table.v {1 {vlog -work work -nocovercells E:/modelsim/modelsim_ase/examples/lab4/truth_table.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module truth_table
+
+Top level modules:
+	truth_table
+
+} {} {}}
