@@ -1,0 +1,9 @@
+E:/modelsim/modelsim_ase/examples/lab5/tb_demux1to8.v {1 {vlog -work work -nocovercells E:/modelsim/modelsim_ase/examples/lab5/tb_demux1to8.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Demultiplexer_1_to_8_assign
+-- Compiling module tb_demux1to8
+
+Top level modules:
+	tb_demux1to8
+
+} {} {}}

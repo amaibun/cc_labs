@@ -1,0 +1,11 @@
+module Demultiplexer_1_to_8_assign(output [7:0] Y, input [2:0] A, input din);
+    assign Y[0] = din & (~A[2]) & (~A[1]) & (~A[0]);
+    assign Y[1] = din & (~A[2]) & (~A[1]) & A[0];
+    assign Y[2] = din & (~A[2]) & A[1] & (~A[0]);
+    assign Y[3] = din & (~A[2]) & A[1] & A[0];
+    assign Y[4] = din & A[2] & (~A[1]) & (~A[0]);
+    assign Y[5] = din & A[2] & (~A[1]) & A[0];
+    assign Y[6] = din & A[2] & A[1] & (~A[0]);
+    assign Y[7] = din & A[2] & A[1] & A[0];
+endmodule
+

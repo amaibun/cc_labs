@@ -1,0 +1,56 @@
+m255
+K3
+13
+cModel Technology
+dE:\modelsim\modelsim_ase\examples\lab4
+vDemultiplexer_1_to_8_assign
+!s100 KZhNfZOLNTfgH8O@A13ng2
+Io3b]EXUB94HW_Fa?2dOCE1
+VSJ<lC;jLU2]U1M34mSOdD0
+Z0 dE:\modelsim\modelsim_ase\examples\lab5
+w1745658821
+Z1 Fdemux1to8.v
+Z2 8E:/modelsim/modelsim_ase/examples/lab5/tb_demux1to8.v
+Z3 FE:/modelsim/modelsim_ase/examples/lab5/tb_demux1to8.v
+L0 1
+Z4 OV;L;6.5b;42
+r1
+!s85 0
+31
+!s101 -O0
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+n@demultiplexer_1_to_8_assign
+vdemux1to8
+IVzkooMoI9bQfM6[8fI7BD2
+V18b0z9bSFfRmo`c=kBIDC1
+Z7 dE:\modelsim\modelsim_ase\examples\lab5
+Z8 w1745657873
+R1
+R2
+R3
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 ?PoPccgVo5mmKO]cedKl=3
+!s85 0
+!s101 -O0
+vtb_demux1to8
+!s100 4BcmSo;aaRCzzA4VIog?z3
+I^^cG7L2AAi4S3[K_Yo_b13
+V^:9^2LUY6ZF3:5JEF4TWM0
+R7
+R8
+R2
+R3
+L0 3
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6
