@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dE:\modelsim\modelsim_ase\examples\lab5
+vbitsum
+I8EM?XIePCc@I>X>d8ii5^1
+Vi9NGmz9LhHK1Bn8hXVK7o2
+Z0 dE:\modelsim\modelsim_ase\examples\lab6
+Z1 w1746866057
+Z2 8E:/modelsim/modelsim_ase/examples/lab6/5bit_sum.v
+Z3 FE:/modelsim/modelsim_ase/examples/lab6/5bit_sum.v
+L0 20
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+!s100 3d23@0me72E;`TZDUkO`:2
+!s85 0
+!s101 -O0
+vmy_sum
+IcgmOn??n5R3OlnfU?<fmm3
+VE;1ZgZMcP5TcPZTfF92:Z0
+Z7 dE:\modelsim\modelsim_ase\examples\lab6
+R1
+R2
+R3
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 kb7SESLNJQOgSeFP0gK6a1
+!s85 0
+!s101 -O0
+vref_sum
+I8X`9WUI]:YdE=@Y@1KhJ[0
+VZUA]=mB=jAeU50zWFFe=a0
+R7
+w1746863054
+8E:/modelsim/modelsim_ase/examples/lab6/5bit_ref_sum.v
+FE:/modelsim/modelsim_ase/examples/lab6/5bit_ref_sum.v
+L0 1
+R4
+r1
+31
+R6
+R5
+!s100 H96]T>e1JG;UfWf3gmPmc1
+!s85 0
+!s101 -O0
+vtest_sum
+!s100 YD02o1:=:M7X3<Vfh>?[O0
+I_emo:E2=C8JlVH04nWJDS2
+V?[S@XOc7;P58OizZje^Po0
+R7
+w1746864292
+8E:/modelsim/modelsim_ase/examples/lab6/testbench.v
+FE:/modelsim/modelsim_ase/examples/lab6/testbench.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6

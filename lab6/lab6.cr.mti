@@ -1,0 +1,23 @@
+E:/modelsim/modelsim_ase/examples/lab6/5bit_ref_sum.v {1 {vlog -work work -nocovercells E:/modelsim/modelsim_ase/examples/lab6/5bit_ref_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ref_sum
+
+Top level modules:
+	ref_sum
+
+} {} {}} E:/modelsim/modelsim_ase/examples/lab6/5bit_sum.v {1 {vlog -work work -nocovercells E:/modelsim/modelsim_ase/examples/lab6/5bit_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module my_sum
+-- Compiling module bitsum
+
+Top level modules:
+	my_sum
+
+} {} {}} E:/modelsim/modelsim_ase/examples/lab6/testbench.v {1 {vlog -work work -nocovercells E:/modelsim/modelsim_ase/examples/lab6/testbench.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module test_sum
+
+Top level modules:
+	test_sum
+
+} {} {}}
